@@ -115,7 +115,7 @@ ID  Name  Turnout VoteER  Win
 124	Fetisov	36.61	52.86	Yes
 125	Pahomov	35.60	47.39	Yes
 126	Oleinikov	38.67	39.51	Yes
-128 Veller	39.39	44.16	Yes
+128 Veller  39.39 44.16 Yes
 129	Panov	40.72	42.39	Yes
 130	Moskvin	50.76	63.42	Yes
 131	Nazarova	41.56	50.45	Yes
